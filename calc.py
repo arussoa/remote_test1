@@ -1,2 +1,2 @@
-def addTwoNums(a,b)
-  return a+b
+def addTwoNums(a, b):
+  return a + b
